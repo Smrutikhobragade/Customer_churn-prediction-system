@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+feedback_log.json
+churn_model.pkl
+decisiontree_model.pkl
+randomforest_model.pkl
+telecom_churn_synthetic_csv_file _.csv
